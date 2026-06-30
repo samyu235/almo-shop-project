@@ -1,0 +1,6 @@
+almo-pipeline/venv/
+almo-pipeline/.env
+ai-shop/node_modules/
+ai-shop/.env
+ai-shop/.env.local
+ai-shop/build/

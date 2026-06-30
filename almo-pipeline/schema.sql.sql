@@ -1,0 +1,11 @@
+
+USE almodb;
+
+CREATE TABLE PRODUCT (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    price FLOAT,
+    inventory INT,
+    upc VARCHAR(50)
+);
+SELECT * FROM PRODUCT;
