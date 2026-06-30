@@ -1,3 +1,12 @@
+## Screenshots
+
+![Screenshot 1](images/imag1.png)
+
+![Screenshot 2](images/imag2.png)
+
+![Screenshot 3](images/image 3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
